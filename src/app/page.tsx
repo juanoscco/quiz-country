@@ -252,7 +252,7 @@ export default function Home() {
           </div>
         )}
       </section>
-      <footer className={`${montserrat.className} pt-20 text-center text-white`}>
+      <footer className={`${montserrat.className} pt-5 text-center text-white`}>
         created by{" "}
         <a
           href="http://Github.com/jcom-dev"
